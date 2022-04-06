@@ -22,5 +22,7 @@ _prefix_ \_\_\_\_\_     number of directory levels between drive and ADAM root d
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
 
 ## Output
-The tool generates a file calledf myviewer.tmp containing the files in the \
+The tool generates a file called myviewer.tmp containing the files in the ADAM code library. 
+
+
 *============================   End Of File   ================================
