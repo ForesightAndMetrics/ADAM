@@ -38,7 +38,7 @@ We strive to use open-source software solutions as much as possible. However tha
 GAMS in combuination with GTREE (see below) is used by ADAM to manage workflows and keep data, calculation rules and user defined settings strictly separated while ensuring maximum transparency.
 
 #### GTREE
-GTREE is an integrated development environment until recently publicly available through the Wageningen Economic Research (WECR) [Gamstools website](https://www.medictcare.nl/gamstools/). The software is not available there anymore. While we figure out how to make it publicly available again, the software and tools that were in the public domain and meant to be usede by anyone, can be obtained through the [ADAM administrator](mailto:G.kruseman@cgiar.org).
+GTREE is an integrated development environment until recently publicly available through the Wageningen Economic Research (WECR) and is niow available from th original developer [Gamstools website](https://www.medictcare.nl/gamstools/). The software is not available there anymore. While we figure out how to make it publicly available again, the software and tools that were in the public domain and meant to be usede by anyone, can be obtained through the [ADAM administrator](mailto:G.kruseman@cgiar.org).
 
 ### R
 ADAM makes use of [R](https://cran.r-project.org/) for statistical analyses andthe generation of graphics. Where possible R based geo-spatial analysis tools are used.
